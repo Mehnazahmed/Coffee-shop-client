@@ -1,0 +1,49 @@
+h1 {
+  font-family: Rancho;
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 26.4px;
+}
+span {
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 24px;
+}
+h3 {
+  font-family: Rancho;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 15.4px;
+}
+button {
+  font-family: Rancho;
+  font-size: 24px;
+}
+p {
+  font-family: Rancho;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+/* blockquote {
+  font-family: Rancho;
+  font-size: 21px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 30px;
+} */
+/* pre {
+  font-family: Rancho;
+  font-size: 13px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 18.5714px;
+} */
